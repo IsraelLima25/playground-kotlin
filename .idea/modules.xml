@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kotlin-array-list/kotlin-array-list.iml" filepath="$PROJECT_DIR$/kotlin-array-list/kotlin-array-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin-exception/kotlin-exception.iml" filepath="$PROJECT_DIR$/kotlin-exception/kotlin-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin-funcional/kotlin-funcional.iml" filepath="$PROJECT_DIR$/kotlin-funcional/kotlin-funcional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin-fundamentos/kotlin-fundamentos.iml" filepath="$PROJECT_DIR$/kotlin-fundamentos/kotlin-fundamentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin-heranca-polimorfismo/kotlin-heranca-polimorfismo.iml" filepath="$PROJECT_DIR$/kotlin-heranca-polimorfismo/kotlin-heranca-polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin-pacotes-composicao/kotlin-pacotes-composicao.iml" filepath="$PROJECT_DIR$/kotlin-pacotes-composicao/kotlin-pacotes-composicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin-set-map/kotlin-set-map.iml" filepath="$PROJECT_DIR$/kotlin-set-map/kotlin-set-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mainModule.iml" filepath="$PROJECT_DIR$/mainModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../orange-talents-05-template-proposta/proposta.iml" filepath="$PROJECT_DIR$/../orange-talents-05-template-proposta/proposta.iml" />
+    </modules>
+  </component>
+</project>
